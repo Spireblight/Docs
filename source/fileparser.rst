@@ -1,7 +1,7 @@
 Parsing run history and savegame data
 =====================================
 
-.. module:: gamedata.py
+.. module:: gamedata
 
 .. class:: FileParser
 
